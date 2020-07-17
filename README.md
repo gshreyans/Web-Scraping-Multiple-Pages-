@@ -1,2 +1,2 @@
 # Web-Scraping-Multiple-Pages-
-Scraping multiplee pages from IMDB
+Scraping multiple pages from IMDB
